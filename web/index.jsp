@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>HOLA MUNDOOOOO!</h1>
         <p>Request a secure Admin page <a href="secureAdmin/pageA.html">here!</a></p>
         <p>Request a secure User page <a href="secureUser/pageU.html" >here!</a></p>
         
@@ -20,7 +20,7 @@
         NO MUESTRA COMO FUNCIONAR CON MAPEOS DE GRUPOS A ROLES. Y es lo que yo he adaptado.
         -->
         
-        <!--IMPORTANTE PARA QUE FUNCIONES ESTE EJEMPLO:
+        <!--RECUERDA ESTO!!!:
         Crear en el servidor GlashFish:
 
         Nombre del Dominio(Realm): filePrueba
